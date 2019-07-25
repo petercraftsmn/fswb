@@ -1,6 +1,6 @@
 # Full Stack Website
 
-This is a general purpose website with React front end and back end.
+This is a general purpose website with React front end.
 
 ## Front end
 
@@ -26,3 +26,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br>
 App is ready to be deployed!
 
+## Back End
+
+...
